@@ -49,6 +49,10 @@ figure:hover{
     cursor: pointer;
 }
 
+figure{
+    width: 60px;
+}
+
 
 .more-than-four{
     display: flex;
@@ -80,4 +84,9 @@ figure:hover{
 
 .others{
     margin-bottom: 30px;
+}
+
+.caption{
+    font-size: 8px;
+    text-wrap: wrap;
 }
