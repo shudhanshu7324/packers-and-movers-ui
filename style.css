@@ -50,7 +50,7 @@ figure:hover{
 }
 
 figure{
-    width: 60px;
+    width: 55px;
 }
 
 
@@ -75,11 +75,12 @@ figure{
 
 .more-items{
     display: none;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
     gap: 20px;
     margin-top: 15px;
     padding: 5px;
+    width: 96%;
 }
 
 .others{
